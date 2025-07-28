@@ -46,12 +46,18 @@ Allows users to:
 
 ## ⚙️ Project Structure
 
+```
 StudentPrediction/
 ├── backend/
-│ ├── main.py # FastAPI backend
-│ └── best_model.pkl # Trained XGBoost model
+│   ├── main.py               # FastAPI backend
+│   └── best_model.pkl        # Trained XGBoost model
 ├── frontend/
-│ └── (React + Vite app)
+│   └── (React + Vite app)
+├── screenshots/
+│   ├── dashboard.png
+│   └── prediction.png
+└── README.md
+```
 
 
 ---
