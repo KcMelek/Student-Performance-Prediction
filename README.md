@@ -69,6 +69,7 @@ StudentPrediction/
 ```bash
 git clone https://github.com/your-username/StudentPrediction.git
 cd StudentPrediction 
+```
 
 ### 2. Run Backend (FastAPI)
 
